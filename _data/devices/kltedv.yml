@@ -26,7 +26,7 @@ network:
 - {tech: 4G, bands: '' }
 note_show: true
 note_title: kltespr
-note_content: This is also the build to use if the device's codename is kltespr.
+note_content: This is also the build to use if the device's codename is kltespr. They are two separate devices, but they're close enough that the build and install process is the same. 
 peripherals: [Fingerprint reader, Heart rate sensor, Motion Coprocessor, Accelerometer, Gesture sensor,
   Gyroscope, Proximity sensor, Compass, Barometer, Hall effect sensor, RGB ambient light, Infrared sensor]
 ram: 2 GB
